@@ -1,0 +1,5 @@
+group_name , user_count
+Gruppe A,3
+Gruppe B,12
+Gruppe C,12
+Gruppe D,12
